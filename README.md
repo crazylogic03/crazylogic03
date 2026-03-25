@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif?raw=true" width="100%"/>
+  <img src="./assets/banner.gif" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Thrishul</h1>
@@ -41,9 +41,9 @@
     </td>
     <td valign="middle" width="40%" align="center">
       <br>
-      <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/Web_Photo_Editor.jpg?raw=true" alt="Spider-Man Workspace" width="100%" style="border-radius: 10px;" />
+      <img src="./assets/spiderman.jpg" alt="Coding Workspace" width="100%" style="border-radius: 10px;" />
       <br><br>
-      <p align="center"><strong><em>"With great power, comes great responsibility." ~ Ben Parker</em></strong></p>
+      <p align="center"><strong><em>"Code is like humor. When you have to explain it, it’s bad." ~ Cory House</em></strong></p>
       <br>
       <h3 align="center">Socials 📌</h3>
       <table align="center">
@@ -104,11 +104,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png?raw=true" width="220" alt="Golem" />
-  <br>
+  <img src="./assets/rocket.png" width="180" alt="Rocket" />
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazylogic03&radius=16&theme=radical&area=true&order=5" width="80%" alt="activity-graph graph" />
-  <br>
-  <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png?raw=true" height="150" alt="Mini Pekka" />
+  <br><br>
+  <img src="./assets/laptop.png" height="150" alt="Laptop" />
 </div>
 
 <div align="center">
